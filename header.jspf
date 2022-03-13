@@ -1,0 +1,22 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <div class="container">
+        <a class="navbar-brand" href="Home">Albert</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="oi oi-menu"></span> Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="ftco-nav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active"><a href="Home" class="nav-link">Trang Chủ</a></li>
+                <li class="nav-item"><a href="room" class="nav-link">Phòng</a></li>
+                <li class="nav-item"><a href="resturance.jsp" class="nav-link">Nhà Hàng</a></li>
+                <li class="nav-item"><a href="aminities.jsp" class="nav-link">Tiện Nghi</a></li>
+                <li class="nav-item"><a href="about.jsp" class="nav-link">Tổng Quan</a></li>
+                <li class="nav-item"><a href="contact.jsp" class="nav-link">Liên Hệ</a></li>
+                <li class="nav-item"><a href="contact.jsp" class="nav-link">Đăng nhập̣</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
